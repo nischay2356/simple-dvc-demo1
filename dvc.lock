@@ -9,8 +9,8 @@ stages:
       size: 91998
     - path: src/get_data.py
       hash: md5
-      md5: c2c7e2dcf94528481cf7ddfc561e279a
-      size: 674
+      md5: b6a149446c9952984492bc52610b3c94
+      size: 670
     - path: src/load_data.py
       hash: md5
       md5: 0d4b91f983f6419bb205f52cbe90a7a9
